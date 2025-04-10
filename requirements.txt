@@ -1,0 +1,24 @@
+# LangChain core
+langchain
+langchain-core
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Anthropic integration
+langchain-anthropic
+
+# Google Gemini (PaLM) integration
+langchain-google-genai
+google-generativeai  # Fixed package name
+
+# Hugging Face integration
+langchain-huggingface
+transformers
+huggingface-hub  # Fixed package name (changed 'huggingface' to 'huggingface-hub')
+
+# Environment variables management
+numpy
+python-dotenv
+scikit-learn
